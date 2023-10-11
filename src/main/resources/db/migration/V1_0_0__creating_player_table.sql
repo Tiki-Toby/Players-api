@@ -1,0 +1,5 @@
+CREATE TABLE player(
+    id VARCHAR(40) PRIMARY KEY NOT NULL,
+    name VARCHAR(255) NOT NULL,
+    rating INTEGER NOT NULL
+);
